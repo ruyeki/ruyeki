@@ -1,6 +1,6 @@
 # 💫 About Me:
 📚 I am a fourth-year computer science major at UC Davis, passionate about coding and full-stack development.<br>
-💼 Currently working part-time as a Software Engineer Intern at Persist.AI in West Sacramento.<br>
+💼 Currently working part-time as a Software Engineer Intern at Persist AI in West Sacramento.<br>
 ⛹️ I'm a huge sports enthusiast. When I'm not coding, I love playing basketball, as well as watching baseball and the UFC! <br>
 ✉️ Contact me: rauyeki@ucdavis.edu 
 
