@@ -4,7 +4,7 @@
 ⛹️ I'm a huge sports enthusiast. When I'm not coding, I love playing basketball, as well as watching baseball and the UFC! <br>
 ✉️ Contact me: rauyeki@ucdavis.edu 
 
-Feel free to check out all my projects and code here! 
+Feel free to check out all my projects and code here! Also visit my website: https://ryan-uyeki.vercel.app
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruyeki) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rauyeki@ucdavis.edu) 
