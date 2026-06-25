@@ -1,7 +1,7 @@
 # 💫 About Me:
 📚 I am a recent graduate from UC Davis with a B.S. in Computer Science.<br>
 💼 Currently working as a Software Engineer at Persist AI in West Sacramento, CA.<br>
-⛹️ I'm a huge sports enthusiast. When I'm not coding, I love playing basketball, as well as watching baseball and the UFC! <br>
+⛹️ I'm a huge sports enthusiast. When I'm not coding, I love playing basketball and golf, as well as watching baseball and the UFC! <br>
 ✉️ Contact me: rauyeki@ucdavis.edu 
 
 Feel free to check out all my projects and code here!
